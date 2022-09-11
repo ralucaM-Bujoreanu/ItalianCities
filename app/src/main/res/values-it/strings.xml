@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cities">Città</string>
+    <string name="app_name">ItalianCities</string>
+    <string name="maps">Mappe</string>
+    <string name="city">Città:</string>
+    <string name="province">Provincia:</string>
+    <string name="cap">CAP:</string>
+    <string name="cadastralCode">Codice Catastale:</string>
+    <string name="prefix">Prefisso:</string>
+    <string name="contacts">Contatti:</string>
+    <string name="location_disabled">Il servizio di localizzazione non è disponibile, verrà mostrata solo la posizione della città</string>
+    <string name="action_search">Cerca</string>
+    <string name="position">Io</string>
+</resources>
